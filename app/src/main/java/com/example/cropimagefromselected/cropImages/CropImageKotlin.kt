@@ -34,9 +34,7 @@ class CropImageKotlin : AppCompatActivity()  , CropImageView.OnSetImageUriComple
         val EXTRA_ASPECT_RATIO_Y = "extra_aspect_ratio_y"
 
         private val ASPECT_RATIO_X = "ASPECT_RATIO_X"
-
         private val ASPECT_RATIO_Y = "ASPECT_RATIO_Y"
-
 
         private var mAspectRatioX = DEFAULT_ASPECT_RATIO_VALUES
 
